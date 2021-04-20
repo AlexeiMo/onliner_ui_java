@@ -1,5 +1,7 @@
 package helpers;
 
+import utilities.CustomLogger;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -20,15 +22,15 @@ public class PropertiesReader extends BaseTest{
             propertiesFile = new File(classLoader.getResource("test_framework.properties").toURI());
         }
         catch (URISyntaxException e) {
-            logger.info("Can't find properties file");
+            CustomLogger.info("Can't find properties file");
         }
         properties = new Properties();
         try (InputStream inputStream =
                      new FileInputStream(propertiesFile)) {
-            logger.info("Reading properties file...");
+            CustomLogger.info("Reading properties file...");
             properties.load(inputStream);
         } catch (IOException e) {
-            logger.info("Can't read properties file");
+            CustomLogger.info("Can't read properties file");
         }
     }
 

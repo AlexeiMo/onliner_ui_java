@@ -1,6 +1,7 @@
 package helpers;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import utilities.CustomLogger;
 
 import java.io.File;
 import java.io.IOException;
@@ -9,7 +10,7 @@ import java.util.Map;
 public final class JsonDataReader extends BaseTest{
 
     public static Map<String, String> getTestData() {
-        logger.info("Getting test data");
+        CustomLogger.info("Getting test data");
         Map<String, String> payment = null;
         try {
             payment = new ObjectMapper().readValue(new File(PropertiesReader.getProperty("testData.path")),
@@ -17,7 +18,7 @@ public final class JsonDataReader extends BaseTest{
                     });
         } catch (IOException e) {
             e.printStackTrace();
-            logger.info("Can't read testData.json file");
+            CustomLogger.info("Can't read testData.json file");
         }
         return payment;
     }
