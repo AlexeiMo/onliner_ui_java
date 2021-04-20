@@ -1,5 +1,14 @@
 {
   "login": "",
   "password": "",
-  "searchOption": "ThinkPad T14"
+  "searchOption": "ThinkPad T14",
+  "categoryPageName": "Каталог",
+  "categoryUrl": "https://catalog.onliner.by/",
+  "categoryName": "Электроника",
+  "subCategoryName": "Телевидение и видео",
+  "productCategoryName": "Телевизоры",
+  "compareFormUrl": "https://catalog.onliner.by/compare/",
+  "orderUrl": "https://cart.onliner.by/order",
+  "orderTitle": "Оформление заказа",
+  "removeProductUrl": "https://cart.onliner.by/"
 }

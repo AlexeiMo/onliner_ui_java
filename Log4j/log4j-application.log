@@ -126,3 +126,119 @@
 2021-04-20 12:51:55 INFO  CustomLogger:11 - Test search
 2021-04-20 12:51:55 INFO  CustomLogger:11 - Open onliner.by page
 2021-04-20 12:52:00 INFO  CustomLogger:11 - zzzzzzzzzzzzzzzzzz10
+2021-04-20 16:24:22 INFO  CustomLogger:11 - Getting test data
+2021-04-20 16:24:22 INFO  CustomLogger:11 - Reading properties file...
+2021-04-20 16:24:22 INFO  CustomLogger:11 - Open the browser
+2021-04-20 16:24:22 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 16:24:22 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 16:24:26 INFO  CustomLogger:11 - Test compare
+2021-04-20 16:24:26 INFO  CustomLogger:11 - Navigate to category page
+2021-04-20 16:24:27 INFO  CustomLogger:11 - Open specified category
+2021-04-20 16:24:27 INFO  CustomLogger:11 - Open specified subcategory
+2021-04-20 16:24:28 INFO  CustomLogger:11 - Open specified product category
+2021-04-20 16:24:31 INFO  CustomLogger:11 - Mark specified product as compared
+2021-04-20 16:24:32 INFO  CustomLogger:11 - Mark specified product as compared
+2021-04-20 16:24:32 INFO  CustomLogger:11 - Get compared product title
+2021-04-20 16:24:32 INFO  CustomLogger:11 - Get compared product title
+2021-04-20 16:24:32 INFO  CustomLogger:11 - Open compare form
+2021-04-20 16:24:33 INFO  CustomLogger:11 - Verify compare process
+2021-04-20 16:24:44 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 16:24:44 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 16:24:45 INFO  CustomLogger:11 - Test login process
+2021-04-20 16:24:45 INFO  CustomLogger:11 - Open login form
+2021-04-20 16:24:45 INFO  CustomLogger:11 - Type login to the form
+2021-04-20 16:24:45 INFO  CustomLogger:11 - Type password to the form
+2021-04-20 16:24:45 INFO  CustomLogger:11 - Submit login form
+2021-04-20 16:24:45 INFO  CustomLogger:11 - Verify login process
+2021-04-20 16:24:46 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 16:24:46 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 16:24:47 INFO  CustomLogger:11 - Test navigation
+2021-04-20 16:24:47 INFO  CustomLogger:11 - Navigate to category page
+2021-04-20 16:24:48 INFO  CustomLogger:11 - Verify navigation process
+2021-04-20 16:24:48 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 16:24:48 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 16:24:49 INFO  CustomLogger:11 - Test search
+2021-04-20 16:24:49 INFO  CustomLogger:11 - Searching item
+2021-04-20 16:24:49 INFO  CustomLogger:11 - Verify search results
+2021-04-20 16:27:36 INFO  CustomLogger:11 - Getting test data
+2021-04-20 16:27:36 INFO  CustomLogger:11 - Reading properties file...
+2021-04-20 16:27:36 INFO  CustomLogger:11 - Open the browser
+2021-04-20 16:27:36 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 16:27:36 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 16:27:41 INFO  CustomLogger:11 - Test compare
+2021-04-20 16:27:41 INFO  CustomLogger:11 - Navigate to category page
+2021-04-20 16:27:42 INFO  CustomLogger:11 - Open specified category
+2021-04-20 16:27:43 INFO  CustomLogger:11 - Open specified subcategory
+2021-04-20 16:27:43 INFO  CustomLogger:11 - Open specified product category
+2021-04-20 16:27:47 INFO  CustomLogger:11 - Mark specified product as compared
+2021-04-20 16:27:47 INFO  CustomLogger:11 - Mark specified product as compared
+2021-04-20 16:27:47 INFO  CustomLogger:11 - Get compared product title
+2021-04-20 16:27:47 INFO  CustomLogger:11 - Get compared product title
+2021-04-20 16:27:47 INFO  CustomLogger:11 - Open compare form
+2021-04-20 16:27:48 INFO  CustomLogger:11 - Verify compare process
+2021-04-20 16:27:48 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 16:27:48 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 16:27:49 INFO  CustomLogger:11 - Test login process
+2021-04-20 16:27:49 INFO  CustomLogger:11 - Open login form
+2021-04-20 16:27:49 INFO  CustomLogger:11 - Type login to the form
+2021-04-20 16:27:49 INFO  CustomLogger:11 - Type password to the form
+2021-04-20 16:27:49 INFO  CustomLogger:11 - Submit login form
+2021-04-20 16:27:49 INFO  CustomLogger:11 - Verify login process
+2021-04-20 16:27:51 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 16:27:51 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 16:27:51 INFO  CustomLogger:11 - Test navigation
+2021-04-20 16:27:51 INFO  CustomLogger:11 - Navigate to category page
+2021-04-20 16:27:52 INFO  CustomLogger:11 - Verify navigation process
+2021-04-20 16:27:52 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 16:27:52 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 16:27:53 INFO  CustomLogger:11 - Test search
+2021-04-20 16:27:53 INFO  CustomLogger:11 - Searching item
+2021-04-20 16:27:53 INFO  CustomLogger:11 - Verify search results
+2021-04-20 17:06:03 INFO  CustomLogger:11 - Getting test data
+2021-04-20 17:06:03 INFO  CustomLogger:11 - Reading properties file...
+2021-04-20 17:06:04 INFO  CustomLogger:11 - Open the browser
+2021-04-20 17:06:04 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 17:06:04 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 17:06:07 INFO  CustomLogger:11 - Test compare
+2021-04-20 17:06:07 INFO  CustomLogger:11 - Navigate to category page
+2021-04-20 17:06:09 INFO  CustomLogger:11 - Open specified category
+2021-04-20 17:06:09 INFO  CustomLogger:11 - Open specified subcategory
+2021-04-20 17:06:09 INFO  CustomLogger:11 - Open specified product category
+2021-04-20 17:06:13 INFO  CustomLogger:11 - Mark specified product as compared
+2021-04-20 17:06:13 INFO  CustomLogger:11 - Mark specified product as compared
+2021-04-20 17:06:13 INFO  CustomLogger:11 - Get compared product title
+2021-04-20 17:06:13 INFO  CustomLogger:11 - Get compared product title
+2021-04-20 17:06:13 INFO  CustomLogger:11 - Open compare form
+2021-04-20 17:06:14 INFO  CustomLogger:11 - Verify compare process
+2021-04-20 17:06:14 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 17:06:14 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 17:06:15 INFO  CustomLogger:11 - Test login process
+2021-04-20 17:06:15 INFO  CustomLogger:11 - Open login form
+2021-04-20 17:06:15 INFO  CustomLogger:11 - Type login to the form
+2021-04-20 17:06:16 INFO  CustomLogger:11 - Type password to the form
+2021-04-20 17:06:16 INFO  CustomLogger:11 - Submit login form
+2021-04-20 17:06:16 INFO  CustomLogger:11 - Verify login process
+2021-04-20 17:06:17 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 17:06:17 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 17:06:17 INFO  CustomLogger:11 - Test navigation
+2021-04-20 17:06:17 INFO  CustomLogger:11 - Navigate to category page
+2021-04-20 17:06:19 INFO  CustomLogger:11 - Verify navigation process
+2021-04-20 17:06:19 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 17:06:19 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 17:06:19 INFO  CustomLogger:11 - Test order
+2021-04-20 17:06:19 INFO  CustomLogger:11 - Navigate to category page
+2021-04-20 17:06:20 INFO  CustomLogger:11 - Open specified category
+2021-04-20 17:06:20 INFO  CustomLogger:11 - Open specified subcategory
+2021-04-20 17:06:21 INFO  CustomLogger:11 - Open specified product category
+2021-04-20 17:06:24 INFO  CustomLogger:11 - Open specified product page
+2021-04-20 17:06:25 INFO  CustomLogger:11 - Move to product traders page
+2021-04-20 17:06:27 INFO  CustomLogger:11 - Accept location
+2021-04-20 17:06:33 INFO  CustomLogger:11 - Add product to cart
+2021-04-20 17:06:33 INFO  CustomLogger:11 - Open cart page
+2021-04-20 17:06:33 INFO  CustomLogger:11 - Create order
+2021-04-20 17:06:36 INFO  CustomLogger:11 - Navigating to main page
+2021-04-20 17:06:36 INFO  CustomLogger:11 - Open onliner.by page
+2021-04-20 17:06:37 INFO  CustomLogger:11 - Test search
+2021-04-20 17:06:37 INFO  CustomLogger:11 - Searching item
+2021-04-20 17:06:37 INFO  CustomLogger:11 - Verify search results
+2021-04-20 17:06:38 INFO  CustomLogger:11 - Remove product from cart

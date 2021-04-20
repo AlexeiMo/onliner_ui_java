@@ -3,7 +3,6 @@ package pageobjects;
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.SelenideElement;
-
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.$$;
 
@@ -45,7 +44,7 @@ public class MainPage {
     }
 
     public void clickCategoryButton(String name) {
-        for (SelenideElement elem : this.categoryButtons) {
+        for (SelenideElement elem: this.categoryButtons) {
             if(elem.getText().equals(name)) {
                 elem.click();
                 break;

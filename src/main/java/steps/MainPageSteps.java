@@ -2,9 +2,8 @@ package steps;
 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Condition.visible;
-
 import static com.codeborne.selenide.CollectionCondition.sizeGreaterThan;
-
+import static com.codeborne.selenide.WebDriverRunner.url;
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.SelenideElement;
@@ -48,16 +47,28 @@ public class MainPageSteps extends BaseTest {
     }
 
     public void searchItem(String item) {
+        CustomLogger.info("Searching item");
         mainPage.switchToSearchFrame();
         mainPage.setSearchOption(item);
     }
 
     public void verifySearchResults(String item) {
+        CustomLogger.info("Verify search results");
         ElementsCollection searchResults = mainPage.getSearchResults();
         searchResults.shouldHave(sizeGreaterThan(0));
         for (SelenideElement elem: searchResults) {
             elem.shouldHave(text(item));
         }
+    }
+
+    public void navigateToCategory(String name) {
+        CustomLogger.info("Navigate to category page");
+        mainPage.clickCategoryButton(name);
+    }
+
+    public void verifyNavigation(String expectedUrl) {
+        CustomLogger.info("Verify navigation process");
+        assert url().equals(expectedUrl);
     }
 
 }
