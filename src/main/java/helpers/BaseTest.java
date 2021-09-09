@@ -5,7 +5,6 @@ import com.codeborne.selenide.testng.ScreenShooter;
 import utilities.CustomLogger;
 import org.testng.annotations.BeforeClass;
 
-
 public class BaseTest {
 
     @BeforeClass

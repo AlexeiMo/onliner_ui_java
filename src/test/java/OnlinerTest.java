@@ -1,7 +1,6 @@
 import helpers.BaseTest;
 import helpers.JsonDataReader;
 import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import steps.CartPageSteps;
@@ -19,7 +18,6 @@ public class OnlinerTest extends BaseTest {
     CatalogPageSteps catalogPageSteps = new CatalogPageSteps();
     ProductPageSteps productPageSteps = new ProductPageSteps();
     CartPageSteps cartPageSteps = new CartPageSteps();
-
 
     @BeforeMethod()
     public void navigateToMainPage() {
